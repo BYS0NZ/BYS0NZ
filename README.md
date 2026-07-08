@@ -2,7 +2,7 @@
 <!--                    GITHUB PROFILE README                  -->
 <!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Chakib Atmane</h1>
+<h1 align="center">Hello 👋, I'm Chakib Atmane</h1>
 
 <h3 align="center">
 Cybersecurity Engineering Student • Cybersecurity Enthusiast • Building Real-World Security Projects
