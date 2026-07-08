@@ -26,13 +26,13 @@ Cybersecurity Engineering Student • Cybersecurity Enthusiast • Building Real
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a CyberSecurity Engineering student passionate about understanding how systems work, how they fail, and how to secure them.
+Cybersecurity practitioner focused on offensive security, malware analysis, reverse engineering, and detection engineering.
 
-I enjoy learning by building practical cybersecurity projects rather than only studying theory. My goal is to become a well-rounded Security Engineer capable of working across offensive security, blue teaming, malware analysis, reverse engineering, and cloud security.
+I build practical security projects that simulate enterprise environments, reproduce attack techniques, and explore defensive strategies. My work includes Active Directory security, Windows internals, security automation, malware research, and threat detection.
 
-I believe the best way to learn cybersecurity is to build, break, analyze, document, and improve.
+This GitHub documents the projects, tools, and technical write-ups I create while continuously expanding my cybersecurity knowledge through hands-on experimentation and security research.
 
 ---
 
